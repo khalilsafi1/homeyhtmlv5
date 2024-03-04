@@ -35,33 +35,34 @@
                 <li class="item-type">Property Type</li>
             </ul>
 
-            <div class="item-user-image list-item-hidden">
-                <img class="img-responsive img-circle" src="img/36x36.png" alt="user-image" width="36" height="36">
-                <span class="item-user-info">Hosted by<br>
-                Patricia Wayne</span>
-            </div>
+            <!-- <div class="flex"> -->
+                <div class="item-user-image list-item-hidden">
+                    <img class="img-responsive img-circle" src="img/36x36.png" alt="user-image" width="36" height="36">
+                    <span class="item-user-info">Hosted by<br>
+                        Patricia Wayne</span>
+                </div>
 
-            <div class="item-footer">
-                <div class="footer-right">
-                    <div class="item-tools">
-                        <div class="btn-group dropup">
-                            <button class="btn-item-tools dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="homey-icon homey-icon-navigation-menu-vertical" aria-hidden="true"></i></button>
-                            <ul class="dropdown-menu">
-                                <li><a class="show-compare-panel" href="#">Compare <i class="homey-icon homey-icon-loading-half"></i></a></li>
-                                <li><a href="#">Add to favorite <i class="homey-icon homey-icon-loading-half"></i></a></li>
-                            </ul>
+                <div class="item-footer mt-4">
+                    <div class="footer-right">
+                        <div class="item-tools">
+                            <div class="btn-group dropup">
+                                <button class="btn-item-tools" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="homey-icon homey-icon-navigation-menu-vertical" aria-hidden="true"></i></button>
+                                <ul class="dropdown-menu">
+                                    <li><a class="show-compare-panel" href="#">Compare <i class="homey-icon homey-icon-loading-half"></i></a></li>
+                                    <li><a href="#">Add to favorite <i class="homey-icon homey-icon-loading-half"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-left">
+                        <div class="stars">
+                            <div class="rating">
+                                <i class="homey-icon homey-icon-rating-star"></i><span class="star-text-right">4.96 - <a href="#">24 Reviews</a></span>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="footer-left">
-                    <div class="stars">
-                        <div class="rating">
-                            <i class="homey-icon homey-icon-rating-star"></i><span class="star-text-right">4.96 - <a href="#">24 Reviews</a></span>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
+            <!-- </div> -->
         </div>
     </div>
 </div><!-- .item-wrap -->

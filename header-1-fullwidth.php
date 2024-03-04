@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <?php include ('inc/head.php'); ?>
+    <?php include('inc/head.php'); ?>
 </head>
+
 <body>
 
     <h1 style="background-color: #eee; margin: 0; padding: 20px; line-height: 16px; font-size: 16px;">Nav 1 boxed left align</h1>
@@ -13,25 +15,25 @@
             <div class="container-fluid">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
-                        <?php include ('inc/header/logo.php'); ?>
+                        <?php include('inc/header/logo.php'); ?>
                     </div>
                     <div class="header-comp-nav text-left">
-                        <?php include ('inc/header/main-nav.php'); ?>
+                        <?php include('inc/header/main-nav.php'); ?>
                     </div>
                     <div class="header-comp-right">
-                        <?php include ('inc/header/login-register-v1.php'); ?>
+                        <?php include('inc/header/login-register-v1.php'); ?>
                     </div>
                 </div>
             </div>
         </header>
         <!-- mobile header -->
-        <?php include ('inc/header/header-mobile-full-width.php'); ?>
+        <?php include('inc/header/header-mobile-full-width.php'); ?>
 
         <!-- desktop and tablet search -->
-        <?php include ('inc/search/main-search-full-width.php'); ?>
+        <?php include('inc/search/main-search-full-width.php'); ?>
     </div>
 
-    
+
     <hr style="margin-top: 200px; margin-bottom: 0; border: none;">
     <h1 style="background-color: #eee; margin: 0; padding: 20px; line-height: 16px; font-size: 16px;">Nav 1 boxed right align</h1>
 
@@ -42,25 +44,25 @@
             <div class="container-fluid">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
-                        <?php include ('inc/header/logo.php'); ?>
+                        <?php include('inc/header/logo.php'); ?>
                     </div>
                     <div class="header-comp-nav text-right">
-                        <?php include ('inc/header/main-nav.php'); ?>
+                        <?php include('inc/header/main-nav.php'); ?>
                     </div>
                     <div class="header-comp-right">
-                        <?php include ('inc/header/login-register-v1.php'); ?>
+                        <?php include('inc/header/login-register-v1.php'); ?>
                     </div>
                 </div>
             </div>
         </header>
         <!-- mobile header -->
-        <?php include ('inc/header/header-mobile-full-width.php'); ?>
+        <?php include('inc/header/header-mobile-full-width.php'); ?>
 
         <!-- desktop and tablet search -->
-        <?php include ('inc/search/main-search-full-width.php'); ?>
+        <?php include('inc/search/main-search-full-width.php'); ?>
     </div>
 
-    
+
     <hr style="margin-top: 200px; margin-bottom: 0; border: none;">
     <h1 style="background-color: #eee; margin: 0; padding: 20px; line-height: 16px; font-size: 16px;">Nav 1 boxed left align with social</h1>
 
@@ -71,25 +73,25 @@
             <div class="container-fluid">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
-                        <?php include ('inc/header/logo.php'); ?>
+                        <?php include('inc/header/logo.php'); ?>
                     </div>
                     <div class="header-comp-nav">
-                        <?php include ('inc/header/main-nav.php'); ?>
+                        <?php include('inc/header/main-nav.php'); ?>
                     </div>
                     <div class="header-comp-right">
-                        <?php include ('inc/header/social.php'); ?>
+                        <?php include('inc/header/social.php'); ?>
                     </div>
                 </div>
             </div>
         </header>
         <!-- mobile header -->
-        <?php include ('inc/header/header-mobile-full-width.php'); ?>
+        <?php include('inc/header/header-mobile-full-width.php'); ?>
 
         <!-- desktop and tablet search -->
-        <?php include ('inc/search/main-search-full-width.php'); ?>
+        <?php include('inc/search/main-search-full-width.php'); ?>
     </div>
 
-    
+
     <hr style="margin-top: 200px; margin-bottom: 0; border: none;">
     <h1 style="background-color: #eee; margin: 0; padding: 20px; line-height: 16px; font-size: 16px;">Nav 1 boxed left align logged in</h1>
 
@@ -100,22 +102,22 @@
             <div class="container-fluid">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
-                        <?php include ('inc/header/logo.php'); ?>
+                        <?php include('inc/header/logo.php'); ?>
                     </div>
                     <div class="header-comp-nav text-right">
-                        <?php include ('inc/header/main-nav.php'); ?>
+                        <?php include('inc/header/main-nav.php'); ?>
                     </div>
                     <div class="header-comp-right">
-                        <?php include ('inc/header/account.php'); ?>
+                        <?php include('inc/header/account.php'); ?>
                     </div>
                 </div>
             </div>
         </header>
         <!-- mobile header -->
-        <?php include ('inc/header/header-mobile-full-width.php'); ?>
+        <?php include('inc/header/header-mobile-full-width.php'); ?>
 
         <!-- desktop and tablet search -->
-        <?php include ('inc/search/main-search-full-width.php'); ?>
+        <?php include('inc/search/main-search-full-width.php'); ?>
     </div>
 
     <hr style="margin-top: 200px; margin-bottom: 0; border: none;">
@@ -125,24 +127,30 @@
         <div class="header-top-bar">
             <div class="container-fluid">
                 <div class="top-bar-inner">
-                    <div class="top-bar-left">
-                        <ul class="crncy-lang-block">
-                            <li class="currency-menu">
-                                <a class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" role="button" id="crn-dropdown">USD <i class="homey-icon homey-icon-arrow-down-1"></i></a>
-                                <ul class="dropdown-menu" aria-labelledby="crn-dropdown">
-                                    <li>USD</li>
-                                    <li>EU</li>
-                                </ul>
+                    <div class="top-bar-left d-flex">
+                        <ul class="crncy-lang-block2">
+                            <li class="currency-menu dropdown">
+                                <a class="" role="button" id="crn-dropdown" data-bs-toggle="dropdown" aria-haspopup="false" aria-expanded="false">
+                                    USD <i class="homey-icon homey-icon-arrow-down-1"></i>
+                                </a>
+
+                                <div class="dropdown-menu" aria-labelledby="crn-dropdown">
+                                    <a class="dropdown-item crn-item" href="#">US</a>
+                                    <a class="dropdown-item crn-item" href="#">PK</a>
+                                </div>
+                                <!-- </div> -->
                             </li>
                         </ul>
-                        <ul class="crncy-lang-block">
-                            <li class="language-menu">
-                                <a class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" role="button" id="lang-dropdown"><img src="img/lang-image.png" class="flag-img" alt="img"> <i class="homey-icon homey-icon-arrow-down-1"></i></a>
-                                <ul class="dropdown-menu" aria-labelledby="lang-dropdown">
-                                    <li>English <img src="img/lang-image.png" class="flag-img" alt="img"></li>
-                                    <li>Spanish <img src="img/lang-image.png" class="flag-img" alt="img"></li>
-                                    <li>Italian <img src="img/lang-image.png" class="flag-img" alt="img"></li>
-                                </ul>
+                        <ul class="crncy-lang-block2">
+                            <li class="language-menu dropdown">
+                                <a class="" role="button" id="lang-dropdown" data-bs-toggle="dropdown" aria-haspopup="false" aria-expanded="false">
+                                    <img src="img/lang-image.png" class="flag-img" alt="img"> <i class="homey-icon homey-icon-arrow-down-1"></i>
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="lang-dropdown">
+                                    <a class="dropdown-item crn-item" href="#">English<img src="img/lang-image.png" class="flag-img" alt="img"></a>
+                                    <a class="dropdown-item crn-item" href="#">Spanish <img src="img/lang-image.png" class="flag-img" alt="img"></a>
+                                    <a class="dropdown-item crn-item" href="#">Italian <img src="img/lang-image.png" class="flag-img" alt="img"></a>
+                                </div>
                             </li>
                         </ul>
                     </div>
@@ -165,25 +173,25 @@
             <div class="container-fluid">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
-                        <?php include ('inc/header/logo.php'); ?>
+                        <?php include('inc/header/logo.php'); ?>
                     </div>
                     <div class="header-comp-nav text-left">
-                        <?php include ('inc/header/main-nav.php'); ?>
+                        <?php include('inc/header/main-nav.php'); ?>
                     </div>
                     <div class="header-comp-right">
-                        <?php include ('inc/header/login-register-v1.php'); ?>
+                        <?php include('inc/header/login-register-v1.php'); ?>
                     </div>
                 </div>
             </div>
         </header>
         <!-- mobile header -->
-        <?php include ('inc/header/header-mobile-full-width.php'); ?>
+        <?php include('inc/header/header-mobile-full-width.php'); ?>
 
         <!-- desktop and tablet search -->
-        <?php include ('inc/search/main-search-full-width.php'); ?>
+        <?php include('inc/search/main-search-full-width.php'); ?>
     </div>
 
-    
+
     <hr style="margin-top: 200px; margin-bottom: 0; border: none;">
     <h1 style="background-color: #eee; margin: 0; padding: 20px; line-height: 16px; font-size: 16px;">Nav 1 boxed with top bar address, hours, phone and contacts</h1>
 
@@ -220,26 +228,27 @@
             <div class="container-fluid">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
-                        <?php include ('inc/header/logo.php'); ?>
+                        <?php include('inc/header/logo.php'); ?>
                     </div>
                     <div class="header-comp-nav text-right">
-                        <?php include ('inc/header/main-nav.php'); ?>
+                        <?php include('inc/header/main-nav.php'); ?>
                     </div>
                     <div class="header-comp-right">
-                        <?php include ('inc/header/login-register-v1.php'); ?>
+                        <?php include('inc/header/login-register-v1.php'); ?>
                     </div>
                 </div>
             </div>
         </header>
         <!-- mobile header -->
-        <?php include ('inc/header/header-mobile-full-width.php'); ?>
+        <?php include('inc/header/header-mobile-full-width.php'); ?>
 
         <!-- desktop and tablet search -->
-        <?php include ('inc/search/main-search-full-width.php'); ?>
+        <?php include('inc/search/main-search-full-width.php'); ?>
     </div>
 
     <hr style="margin-top: 200px; margin-bottom: 0; border: none;">
 
-    <?php include ('inc/scripts.php'); ?>
+    <?php include('inc/scripts.php'); ?>
 </body>
+
 </html>

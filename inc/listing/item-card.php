@@ -1,6 +1,5 @@
 <div class="item-wrap item-card-view">
     <div class="media property-item">
-        
         <div class="item-media item-media-thumb">
             <span class="label-wrap top-left">
                 <span class="label label-success">Featured</span>
@@ -19,7 +18,7 @@
             </div>
             <div class="item-tools">
                 <div class="btn-group dropup">
-                    <button class="btn-item-tools dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="homey-icon homey-icon-navigation-menu-vertical" aria-hidden="true"></i></button>
+                    <button class="btn-item-tools" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="homey-icon homey-icon-navigation-menu-vertical" aria-hidden="true"></i></button>
                     <ul class="dropdown-menu">
                         <li><a class="show-compare-panel" href="#">Compare <i class="homey-icon homey-icon-loading-half"></i></a></li>
                         <li><a href="#">Add to favorite <i class="homey-icon homey-icon-loading-half"></i></a></li>

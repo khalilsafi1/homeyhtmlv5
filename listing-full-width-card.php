@@ -6,13 +6,13 @@
 <body>
     <div class="nav-area header-type-1">
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="container">
-                <div class="header-inner table-block">
+                <div class="header-inner table-row">
                     <div class="header-comp-logo">
                         <?php include ('inc/header/logo.php'); ?>
                     </div>
-                    <div class="header-comp-nav text-left">
+                    <div class="header-comp-nav text-start">
                         <?php include ('inc/header/main-nav.php'); ?>
                     </div>
                     <div class="header-comp-right">
@@ -30,7 +30,7 @@
     <section class="main-content-area listing-page listing-page-full-width">
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+                <div class="col-12 col-sm-9 col-md-9 col-lg-9">
                     <div class="page-title">
                         <div class="block-top-title">
                             <?php include ('inc/breadcrumb.php'); ?>
@@ -38,7 +38,7 @@
                         </div><!-- block-top-title -->
                     </div><!-- page-title -->
                 </div><!-- col-xs-12 col-sm-12 col-md-12 col-lg-12 -->
-                <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 hidden-xs">
+                <div class="col-12 col-sm-3 col-md-3 col-lg-3 d-none d-lg-block">
                     <?php include ('inc/listing/layout-tool.php'); ?>
                 </div>
             </div><!-- .row -->
@@ -46,7 +46,7 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12">
 
                     <?php include ('inc/sort-tool.php'); ?>
                     
