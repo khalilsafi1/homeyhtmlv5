@@ -1,19 +1,19 @@
-<header class="header-nav header-mobile hidden-md hidden-lg">
+<header class="header-nav header-mobile d-block d-lg-none">
     <div class="header-mobile-wrap">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-xs-3">
+                <div class="col-3">
                     <button type="button" class="btn btn-mobile-nav" data-toggle="collapse" data-target="#mobile-nav" aria-expanded="false" aria-controls="navbar">
                         <i class="homey-icon homey-icon-navigation-menu" aria-hidden="true"></i>
                     </button><!-- btn-mobile-nav -->
                 </div>
-                <div class="col-xs-6">
+                <div class="col-6">
                     <div class="mobile-logo text-center">
                         <?php include ('inc/header/logo.php'); ?>
                     </div><!-- mobile-logo -->
                 </div>
-                <div class="col-xs-3">
-                    <div class="user-menu text-right">
+                <div class="col-3">
+                    <div class="user-menu text-end">
                         <button type="button" class="btn btn-mobile-nav" data-toggle="collapse" data-target="#user-nav" aria-expanded="false" aria-controls="navbar">
                             <i class="homey-icon homey-icon-single-neutral-circle" aria-hidden="true"></i>
                         </button>

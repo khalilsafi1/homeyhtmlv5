@@ -9,7 +9,7 @@
 
     <div class="nav-area header-type-3">
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="top-inner-header">
                 <div class="container-fluid">
                     <div class="header-inner clearfix">
@@ -19,7 +19,7 @@
                         <div class="header-comp-logo">
                             <?php include ('inc/header/logo.php'); ?>
                         </div>
-                        <div class="header-comp-right text-right">
+                        <div class="header-comp-right text-end">
                             <?php include ('inc/header/login-register-v1.php'); ?>
                         </div>
                     </div>
@@ -45,7 +45,7 @@
 
     <div class="nav-area header-type-3">
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="top-inner-header">
                 <div class="container-fluid">
                     <div class="header-inner clearfix">
@@ -55,7 +55,7 @@
                         <div class="header-comp-logo">
                             <?php include ('inc/header/logo.php'); ?>
                         </div>
-                        <div class="header-comp-right text-right">
+                        <div class="header-comp-right text-end">
                             <?php include ('inc/header/account.php'); ?>
                         </div>
                     </div>

@@ -7,7 +7,7 @@
 
     <div class="nav-area header-type-4">
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="container">
                 <div class="header-inner table-block">
                     <div class="header-comp-navicon">
@@ -39,7 +39,7 @@
 
     <div class="nav-area header-type-4">
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="container">
                 <div class="header-inner table-block">
                     <div class="header-comp-navicon">
@@ -69,7 +69,7 @@
 
     <div class="nav-area header-type-4">
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="container">
                 <div class="header-inner table-block">
                     <div class="header-comp-navicon">

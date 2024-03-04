@@ -1,6 +1,6 @@
 <div class="main-search main-hourly-search">
 	<div class="container">
-		<div class="search-wrap hidden-sm hidden-xs">
+		<div class="search-wrap d-none d-lg-table">
 			<form class="clearfix">
 				<div class="search-destination">
 					<label class="animated-label">Where to go?</label>
@@ -21,8 +21,9 @@
 					<?php include ('inc/search/search-calendar-single.php'); ?>
 				</div>
 				<div class="search-hours-range clearfix">
-					<div class="search-hours-range-left">
-						<select class="selectpicker" title="Starts">
+					<div class="search-hours-range-left d-flex">
+						<select class="form-select">
+							<option value="selected">Starts</option>
 							<option>8:00 AM</option>
 							<option>8:30 AM</option>
 							<option>9:00 AM</option>
@@ -46,8 +47,9 @@
 							<option>6:00 PM</option>
 						</select>
 					</div>
-					<div class="search-hours-range-right">
-						<select class="selectpicker" title="Ends">
+					<div class="search-hours-range-right d-flex">
+						<select class="form-select" title="Ends">
+							<option value="selected">Ends</option>
 							<option>8:00 AM</option>
 							<option>8:30 AM</option>
 							<option>9:00 AM</option>

@@ -1,7 +1,7 @@
 <div class="main-search">
 	<div class="container-fluid">
 		<form class="clearfix">
-			<div id="search-desktop" class="search-wrap hidden-sm hidden-xs">
+			<div id="search-desktop" class="search-wrap d-none d-lg-block">
 				
 				<div class="search-destination">
 					<label class="animated-label">Where to go?</label>

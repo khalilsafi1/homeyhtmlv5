@@ -38,7 +38,7 @@
 
     <div class="nav-area header-type-1">
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="container-fluid">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
@@ -67,7 +67,7 @@
 
     <div class="nav-area header-type-1">
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="container-fluid">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
@@ -96,7 +96,7 @@
 
     <div class="nav-area header-type-1">
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="container-fluid">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
@@ -161,7 +161,7 @@
             </div>
         </div>
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="container-fluid">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
@@ -203,11 +203,11 @@
                         </div>
                     </div>
                     <div class="top-bar-right">
-                        <ul class="top-contact-address hidden-sm hidden-xs">
+                        <ul class="top-contact-address d-none d-lg-block">
                             <li><a class="phone-number" href="tel:8008888686"><i class="homey-icon homey-icon-phone-circle"></i> Call us (800) 888 8686</a></li>
                             <li><a class="email-contact" href="#"><i class="homey-icon homey-icon-unread-emails"></i> Contact us</a></li>
                         </ul>
-                        <ul class="top-contact-address top-contact-address-mobile hidden-md hidden-lg">
+                        <ul class="top-contact-address top-contact-address-mobile d-md-block d-lg-none">
                             <li><a class="phone-number" href="tel:8008888686"><i class="homey-icon homey-icon-phone-circle"></i></a></li>
                             <li><a class="email-contact" href="#"><i class="homey-icon homey-icon-unread-emails"></i></a></li>
                         </ul>
@@ -216,7 +216,7 @@
             </div>
         </div>
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="container-fluid">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
