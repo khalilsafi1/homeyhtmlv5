@@ -1,4 +1,4 @@
-<nav id="mobile-nav" class="nav-dropdown main-nav-dropdown collapse navbar-collapse navbar">
+<div id="mobile-nav" class="navbar collapse navbar-collapse">
     <ul>
         <li><a href="#">Home</a></li>
         <li><a href="#">Dropdown</a>
@@ -67,4 +67,4 @@
         <li><a href="#">Help</a></li>
         <li><a href="#">Contact</a></li>
     </ul>
-</nav>
+</div>

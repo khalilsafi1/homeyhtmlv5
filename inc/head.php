@@ -10,12 +10,14 @@
 <link rel="icon" type="image/png" href="img/favicons/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="img/favicons/favicon-16x16.png" sizes="16x16">
 
-<link href="css/css/bootstrap.css" rel="stylesheet" type="text/css" />
-<link href="css/css/bootstrap-select.css" rel="stylesheet" type="text/css" />
+<link href="css/bootstrap-5/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="css/bootstrap-select.css" rel="stylesheet" type="text/css" />
 <link href="css/font-awesome.css" rel="stylesheet" type="text/css" />
+<!-- <link href="css/bootstrap-5/all.min.css" rel="stylesheet" type="text/css" /> -->
 <link href="css/icons.css" rel="stylesheet" type="text/css" />
 <!-- <link href="css/owl.carousel.min.css" rel="stylesheet" type="text/css" /> -->
 <link href="css/swipebox.min.css" rel="stylesheet" type="text/css" />
+<!-- <link href="css/bootstrap-5/swipebox.min.css" rel="stylesheet" type="text/css" /> -->
 <link href="css/slick.css" rel="stylesheet" type="text/css" />
 <link href="css/slick-theme.css" rel="stylesheet" type="text/css" />
 <link href="css/jquery-ui.css" rel="stylesheet" type="text/css" />
@@ -25,6 +27,3 @@
 <link href="css/main-ltr.css" rel="stylesheet" type="text/css" />
 <!-- <link href="css/rtl.css" rel="stylesheet" type="text/css" /> -->
 <link href="css/styling-options.css" rel="stylesheet" type="text/css" />
-<script src="js/js/popper.min.js"></script>
-<script src="js/js/bootstrap.min.js"></script>
-<script src="js/js/bootstrap.bundle.min.js"></script>

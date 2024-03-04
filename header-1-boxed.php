@@ -9,6 +9,7 @@
 
     <h1 style="background-color: #eee; margin: 0; padding: 20px; line-height: 16px; font-size: 16px;">Nav 1 boxed left align</h1>
 
+        
     <div class="nav-area header-type-1">
         <!-- desktop nav -->
         <header class="header-nav d-none d-lg-block">
@@ -76,7 +77,7 @@
                         <?php include('inc/header/main-nav.php'); ?>
                     </div>
                     <div class="header-comp-right">
-                        <?php include('inc/header/social.php'); ?>
+                        <?php //include('inc/header/social.php'); ?>
                     </div>
                 </div>
             </div>
