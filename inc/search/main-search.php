@@ -28,7 +28,7 @@
 				<div class="search-guests">
 					<!-- <label class="animated-label">Guests</label> -->
 					<input type="text" class="form-control" placeholder="Guests">
-					<?php include ('inc/search/search-guests.php'); ?>
+					<?php  include ('inc/search/search-guests.php'); ?>
 				</div>
 				<div class="search-filters">
 					<button type="button" class="btn btn-grey-outlined search-filter-btn"><i class="homey-icon homey-icon-settings-slider" aria-hidden="true"></i></button>

@@ -1,16 +1,18 @@
-<div class="modal fade custom-modal-login" id="modal-register" tabindex="-1" role="dialog">
+<div class="modal modal-xl fade custom-modal-login" id="modal-register" tabindex="-1" role="dialog">
     <div class="modal-dialog clearfix" role="document">
-        <div class="modal-body-left pull-left" style="background-image: url(img/image-1440x960.png); background-size: cover; background-repeat: no-repeat; background-position: 50% 50%;">
+        <div class="modal-body-left float-start" style="background-image: url(img/image-1440x960.png); background-size: cover; background-repeat: no-repeat; background-position: 50% 50%;">
             <div class="login-register-title">
                 Lorem Ipsum Dolor Sit Amet
             </div>
         </div>
 
-        <div class="modal-body-right pull-right">
+        <div class="modal-body-right float-end">
             <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <div class="modal-header justify-content-between">
                     <h4 class="modal-title">Register</h4>
+                    <button type="button" class="btn" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true" class="fs-5 fw-bold text-secondary">&times;</span>
+                    </button>
                 </div>
                 <div class="modal-body">
                     <button type="button" class="btn btn-facebook-lined btn-full-width">
@@ -36,7 +38,7 @@
                                 <option>I want to book</option>
                                 <option>I want to host</option>
                             </select>
-                            <div class="checkbox pull-left">
+                            <div class="checkbox float-start">
                                 <label>
                                     <input type="checkbox"> I agree with <a href="#">Terms & Conditions</a>
                                 </label>

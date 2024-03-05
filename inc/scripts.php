@@ -6,9 +6,9 @@
 <script type="text/javascript" src="js/jquery-ui.min.js"></script>
 <script type="text/javascript" src="js/modernizr.custom.js"></script>
 <script type="text/javascript" src="js/jquery.validate.min.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<!-- <script type="text/javascript" src="js/bootstrap-5/bootstrap.min.js"></script> -->
-<!-- <script type="text/javascript" src="js/bootstrap-5/bootstrap.bundle.min.js"></script> -->
+<!-- <script type="text/javascript" src="js/bootstrap.min.js"></script> -->
+<script type="text/javascript" src="js/bootstrap-5/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
 <!-- <script type="text/javascript" src="js/bootstrap-5/popper.min.js"></script> -->
 <script type="text/javascript" src="js/classie.js"></script>
 <script type="text/javascript" src="js/slick.min.js"></script>
@@ -21,7 +21,6 @@
 <script type="text/javascript" src="js/parallax-background.min.js"></script>
 <script type="text/javascript" src="js/jquery.vide.min.js"></script>
 <script type="text/javascript" src="js/theia-sticky-sidebar.js"></script>
-<script type="text/javascript" src="js/custom.js"></script>
 
 
 

@@ -10,8 +10,9 @@
 <link rel="icon" type="image/png" href="img/favicons/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="img/favicons/favicon-16x16.png" sizes="16x16">
 
-<link href="css/bootstrap-5/bootstrap.css" rel="stylesheet" type="text/css" />
-<link href="css/bootstrap-select.css" rel="stylesheet" type="text/css" />
+<link href="css/bootstrap-5/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<!-- <link href="css/bootstrap-select.css" rel="stylesheet" type="text/css" /> -->
+<link href="css/bootstrap-5/bootstrap-select.min.css" rel="stylesheet" type="text/css" />
 <link href="css/font-awesome.css" rel="stylesheet" type="text/css" />
 <!-- <link href="css/bootstrap-5/all.min.css" rel="stylesheet" type="text/css" /> -->
 <link href="css/icons.css" rel="stylesheet" type="text/css" />

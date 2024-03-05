@@ -31,7 +31,7 @@
         <?php include('inc/header/header-mobile.php'); ?>
 
         <!-- desktop and tablet search -->
-        <?php include('inc/search/main-search.php'); ?>
+        <?php  include('inc/search/main-search.php'); ?>
     </div>
 
 
