@@ -2,7 +2,7 @@
 	<div class="footer-top-wrap">
 		<div class="container">
 			<div class="row">
-				<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+				<div class="col-12 col-sm-6 col-md-3 col-lg-3">
 					<div class="widget footer-widget">
 						<div class="widget-top">
 							<h3 class="widget-title">Widget Title</h3>
@@ -24,7 +24,7 @@
 						</div><!-- widget-body -->
 					</div><!-- widget footer-widget -->
 				</div><!-- col-xs-12 col-sm-6 col-md-3 col-lg-3 -->
-				<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+				<div class="col-12 col-sm-6 col-md-3 col-lg-3">
 					<div class="widget footer-widget">
 						<div class="widget-top">
 							<h3 class="widget-title">Widget Title</h3>
@@ -35,7 +35,7 @@
 						</div><!-- widget-body -->
 					</div><!-- widget footer-widget -->
 				</div><!-- col-xs-12 col-sm-6 col-md-3 col-lg-3 -->
-				<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+				<div class="col-12 col-sm-6 col-md-3 col-lg-3">
 					<div class="widget footer-widget">
 						<div class="widget-top">
 							<h3 class="widget-title">Widget Title</h3>
@@ -52,12 +52,12 @@
 	<div class="footer-bottom-wrap">
 		<div class="container">
 			<div class="row">
-				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+				<div class="col-12 col-sm-6 col-md-6 col-lg-6">
 					<div class="footer-copyright">
 						<a href="#">Homey</a> - All right Reserved - Designed by <a href="#">Favethemes</a> 
 					</div>
 				</div><!-- col-xs-12 col-sm-6 col-md-6 col-lg-6 -->
-				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+				<div class="col-12 col-sm-6 col-md-6 col-lg-6">
 					<div class="social-footer">
 						<?php include 'inc/header/social.php';?>
 					</div>
