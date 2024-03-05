@@ -4,33 +4,32 @@
 
 		<div class="filters-wrap">
 			<div class="row">
-				<div class="col-12 col-sm-12 col-md-2 col-lg-2">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
 					<div class="filters">
 						<strong>Size</strong>
 					</div>
 				</div>
-				<div class="col-12 col-sm-4 col-md-3 col-lg-3">
-					<select class="form-select" >
-
-						<option selected>Bedrooms</option>
+				<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
+					<select class="selectpicker" title=Bedrooms>
+						<option>Option 1</option>
 						<option>Option 2</option>
 						<option>Option 3</option>
 						<option>Option 4</option>
 						<option>Option 5</option>
 					</select>
 				</div>
-				<div class="col-12 col-sm-4 col-md-3 col-lg-3">
-					<select class="form-select" >
-						<option selected>Bathrooms</option>
+				<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
+					<select class="selectpicker" title=Bathrooms>
+						<option>Option 1</option>
 						<option>Option 2</option>
 						<option>Option 3</option>
 						<option>Option 4</option>
 						<option>Option 5</option>
 					</select>
 				</div>
-				<div class="col-12 col-sm-4 col-md-3 col-lg-3">
-					<select class="form-select" >
-						<option selected>Beds</option>
+				<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
+					<select class="selectpicker" title=Beds>
+						<option>Option 1</option>
 						<option>Option 2</option>
 						<option>Option 3</option>
 						<option>Option 4</option>
@@ -42,23 +41,23 @@
 
 		<div class="filters-wrap">
 			<div class="row">
-				<div class="col-12 col-sm-12 col-md-2 col-lg-2">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
 					<div class="filters">
 						<strong>Price</strong>
 					</div>
 				</div>
-				<div class="col-12 col-sm-6 col-md-3 col-lg-3">
-					<select class="form-select" title=>
-						<option selected>Min.</option>
+				<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+					<select class="selectpicker" title=Min.>
+						<option>Option 1</option>
 						<option>Option 2</option>
 						<option>Option 3</option>
 						<option>Option 4</option>
 						<option>Option 5</option>
 					</select>
 				</div>
-				<div class="col-12 col-sm-6 col-md-3 col-lg-3">
-					<select class="form-select" title=Max.>
-						<option selected>Max.</option>
+				<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+					<select class="selectpicker" title=Max.>
+						<option>Option 1</option>
 						<option>Option 2</option>
 						<option>Option 3</option>
 						<option>Option 4</option>
@@ -70,12 +69,12 @@
 
 		<div class="filters-wrap">
 			<div class="row">
-				<div class="col-12 col-sm-12 col-md-2 col-lg-2">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
 					<div class="filters">
 						<strong>Amenities</strong>
 					</div>
 				</div>
-				<div class="col-12 col-sm-12 col-md-9 col-lg-9">
+				<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
 					<div class="filters">
 						<label class="control control--checkbox">
 							<input name="Option Name" type="checkbox">
@@ -134,7 +133,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-12 col-sm-12 col-md-1 col-lg-1">
+				<div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
 					<div class="filters">
 						<a role="button" data-toggle="collapse" data-target="#collapseAmenities" aria-expanded="false" aria-controls="collapseAmenities">
 							<span class="filter-more-link">More</span> 
@@ -147,12 +146,12 @@
 
 		<div class="filters-wrap">
 			<div class="row">
-				<div class="col-12 col-sm-12 col-md-2 col-lg-2">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
 					<div class="filters">
 						<strong>Facilities</strong>
 					</div>
 				</div>
-				<div class="col-12 col-sm-12 col-md-9 col-lg-9">
+				<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
 					<div class="filters">
 						<label class="control control--checkbox">
 							<input name="Option Name" type="checkbox">
@@ -211,7 +210,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-12 col-sm-12 col-md-1 col-lg-1">
+				<div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
 					<div class="filters">
 						<a role="button" data-toggle="collapse" data-target="#collapseFacilities" aria-expanded="false" aria-controls="collapseFacilities">
 							<span class="filter-more-link">More</span> 
@@ -224,12 +223,12 @@
 
 		<div class="filters-wrap">
 			<div class="row">
-				<div class="col-12 col-sm-12 col-md-2 col-lg-2">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
 					<div class="filters">
 						<strong>Neightborhoods</strong>
 					</div>
 				</div>
-				<div class="col-12 col-sm-12 col-md-9 col-lg-9">
+				<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
 					<div class="filters">
 						<label class="control control--checkbox">
 							<input name="Option Name" type="checkbox">
@@ -413,7 +412,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-12 col-sm-12 col-md-1 col-lg-1">
+				<div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
 					<div class="filters">
 						<a role="button" data-toggle="collapse" data-target="#collapseNeightborhoods" aria-expanded="false" aria-controls="collapseNeightborhoods">
 							<span class="filter-more-link">More</span> 
@@ -426,12 +425,12 @@
 
 		<div class="filters-wrap">
 			<div class="row">
-				<div class="col-12 col-sm-12 col-md-2 col-lg-2">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
 					<div class="filters">
 						<strong>House Rules</strong>
 					</div>
 				</div>
-				<div class="col-12 col-sm-12 col-md-9 col-lg-9">
+				<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
 					<div class="filters">
 						<label class="control control--checkbox">
 							<input name="Option Name" type="checkbox">
@@ -465,12 +464,12 @@
 
 		<div class="filters-wrap">
 			<div class="row">
-				<div class="col-12 col-sm-12 col-md-2 col-lg-2">
+				<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
 					<div class="filters">
 						<strong>Host Language</strong>
 					</div>
 				</div>
-				<div class="col-12 col-sm-12 col-md-9 col-lg-9">
+				<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
 					<div class="filters">
 						<label class="control control--checkbox">
 							<input name="Option Name" type="checkbox">

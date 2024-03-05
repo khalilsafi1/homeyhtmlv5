@@ -127,8 +127,8 @@
 		</ul>
 	</div><!-- calendar -->	
 
-	<button class="btn-link btn-clear-calendar position-left">Clear</button>
-	<button class="btn-link btn-clear-calendar position-right">Close</button>
+	<button class="btn position-absolute top-0 start-0">Clear</button>
+	<button class="btn position-absolute top-0 end-0">Close</button>
 
 	<div class="calendar-navigation custom-actions">
 		<button class="btn btn-action float-start"><i class="homey-icon homey-icon-arrow-left-1" aria-hidden="true"></i></button>
