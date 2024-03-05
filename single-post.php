@@ -142,7 +142,7 @@
                                         <img src="img/450x200.png">
                                     </a>
                                 </div>
-                                <div class="next-box pull-right text-right">
+                                <div class="next-box float-end text-right">
                                     <a class="hover-effect" href="#">
                                         <div class="next-prev-block-content">
                                             <p>Next Post</p>

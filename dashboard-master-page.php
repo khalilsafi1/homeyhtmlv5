@@ -69,7 +69,7 @@
 
                                 <div class="block">
                                     <div class="block-title">
-                                        <h2 class="title">Dashboard Info List <a href="#" class="block-link pull-right">View All <i cclass="homey-icon homey-icon-navigation-right-circle-1-interface-essential" aria-hidden="true"></i></a></h2>
+                                        <h2 class="title">Dashboard Info List <a href="#" class="block-link float-end">View All <i cclass="homey-icon homey-icon-navigation-right-circle-1-interface-essential" aria-hidden="true"></i></a></h2>
                                     </div>
                                     <div class="table-block">
                                         <?php include 'inc/dashboard/dashboard-message-read-block.php';?>

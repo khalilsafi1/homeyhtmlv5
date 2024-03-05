@@ -22,7 +22,7 @@
 								<input type="checkbox"> Remember me
 							</label>
 						</div>
-						<div class="forgot-password-text pull-right">
+						<div class="forgot-password-text float-end">
 							<a href="#" data-toggle="modal" data-target="#modal-login-forgot-password" data-dismiss="modal">Forgot passoword?</a>
 						</div>
 						<button type="submit" class="btn btn-primary btn-full-width">Log In</button>

@@ -13,7 +13,7 @@
 						</div><!-- widget-body -->
 					</div><!-- widget footer-widget -->
 				</div><!-- col-xs-12 col-sm-6 col-md-3 col-lg-3 -->
-				<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+				<div class="col-12 col-sm-6 col-md-3 col-lg-3">
 					<div class="widget footer-widget">
 						<div class="widget-top">
 							<h3 class="widget-title">Widget Title</h3>

@@ -52,7 +52,7 @@
                                             <h2 class="title">Manage</h2>
                                         </div>
                                         <div class="block-right">
-                                            <a href="#" class="block-link pull-right"><i class="homey-icon homey-icon-add-circle-interface-essential" aria-hidden="true"></i> Add New</a>
+                                            <a href="#" class="block-link float-end"><i class="homey-icon homey-icon-add-circle-interface-essential" aria-hidden="true"></i> Add New</a>
                                         </div>
                                     </div>
                                     <div class="block-body">

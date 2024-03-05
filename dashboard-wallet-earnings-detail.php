@@ -101,7 +101,7 @@
                                                                 <div class="float-end">
                                                                     <div class="payment-list-price-detail-total-price">Payout</div>
                                                                 </div>
-                                                                <div class="pull-right text-right">
+                                                                <div class="float-end text-right">
                                                                     <div class="payment-list-price-detail-total-price">$4,400.00</div>
                                                                 </div>
                                                             </div>

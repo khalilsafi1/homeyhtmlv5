@@ -55,7 +55,7 @@
                             <h2 class="title">Dashboard Block Title</h2>    
                         </div><!-- block-left -->
                         <div class="block-right">
-                            <a href="#" class="block-link pull-right"><i class="homey-icon homey-icon-add-circle-interface-essential" aria-hidden="true"></i> Add New</a>
+                            <a href="#" class="block-link float-end"><i class="homey-icon homey-icon-add-circle-interface-essential" aria-hidden="true"></i> Add New</a>
                         </div><!-- block-right -->
                     </div>
                     <div class="block-body">

@@ -4,7 +4,7 @@
 		<div class="float-start">
 			<h2>3 Reviews</h2>
 		</div>
-		<div class="pull-right">
+		<div class="float-end">
 			<ul class="list-inline">
 				<li><strong>Sort by:</strong></li>
 				<li>

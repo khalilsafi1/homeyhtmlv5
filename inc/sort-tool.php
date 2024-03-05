@@ -4,7 +4,7 @@
             300 Rentals <i class="homey-icon homey-icon-style-two-pin-marker" aria-hidden="true"></i> <strong>Miami Beach</strong>
         </div>
     </div>  
-    <div class="pull-right">
+    <div class="float-end">
         <ul class="list-inline">
             <li class="list-inline-item"><strong>Sort by:</strong></li>
             <li class="list-inline-item">

@@ -118,7 +118,7 @@
 								<div class="payment-list-price-detail-note">Includes taxes and fees</div>
 							</div>
 
-							<div class="pull-right text-right">
+							<div class="float-end text-right">
 								<div class="payment-list-price-detail-total-price">$324.00</div>
 								<a class="payment-list-detail-btn" data-toggle="collapse" data-target="#collapseExample1" href="javascript:void(0);" aria-expanded="false" aria-controls="collapseExample1">View Details <i class="homey-icon homey-icon-arrow-down-1" aria-hidden="true"></i></a>
 							</div>

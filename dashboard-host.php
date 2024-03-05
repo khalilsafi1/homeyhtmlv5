@@ -78,7 +78,7 @@
                                             <h2 class="title">Upcoming Reservations</h2>
                                         </div>
                                         <div class="block-right">
-                                            <a href="#" class="block-link pull-right">View All <i cclass="homey-icon homey-icon-navigation-right-circle-1-interface-essential" aria-hidden="true"></i></a>
+                                            <a href="#" class="block-link float-end">View All <i cclass="homey-icon homey-icon-navigation-right-circle-1-interface-essential" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="table-block dashboard-reservation-table dashboard-table">
@@ -111,7 +111,7 @@
                                             <h2 class="title">Your Listings</h2>
                                         </div>
                                         <div class="block-right">
-                                            <a href="#" class="block-link pull-right">Manage <i cclass="homey-icon homey-icon-navigation-right-circle-1-interface-essential" aria-hidden="true"></i></a>
+                                            <a href="#" class="block-link float-end">Manage <i cclass="homey-icon homey-icon-navigation-right-circle-1-interface-essential" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="table-block dashboard-listing-table dashboard-table">
@@ -143,7 +143,7 @@
                                             <h2 class="title">Incoming Messages</h2>
                                         </div>
                                         <div class="block-right">
-                                            <a href="#" class="block-link pull-right">View All <i cclass="homey-icon homey-icon-navigation-right-circle-1-interface-essential" aria-hidden="true"></i></a>
+                                            <a href="#" class="block-link float-end">View All <i cclass="homey-icon homey-icon-navigation-right-circle-1-interface-essential" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="table-block dashboard-message-table dashboard-table">
