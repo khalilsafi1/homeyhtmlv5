@@ -34,7 +34,7 @@
         <div class="extended-right">
             <div class="menu-slider-wrap">
                 <div class="slider-title clearfix">
-                    <div class="title pull-left">New Rentals</div>
+                    <div class="title float-start">New Rentals</div>
                     <div class="menu-slider-nav pull-right">
                         <span class="btn-prev"><i class="homey-icon navigation-left-circle-1-interface-essential"></i></span>
                         <span class="btn-next"><i class="homey-icon homey-icon-navigation-right-circle-1-interface-essential"></i></span>

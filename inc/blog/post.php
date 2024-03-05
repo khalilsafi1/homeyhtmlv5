@@ -7,7 +7,7 @@
 	</div>
 	<div class="block-footer clearfix">
 
-		<ul class="article-meta list-inline pull-left">
+		<ul class="article-meta list-inline float-start">
 			<li class="post-author">
 				<img src="img/40x40.png" alt="Auther Image" width="48" height="48" class="img-circle">
 				by <a href="#">John Doe</a>

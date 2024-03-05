@@ -101,7 +101,7 @@
                                                         <li>Taxes 20% <span>$2.00</span></li>
                                                         <li class="total">
                                                             <div class="payment-list-price-detail clearfix">
-                                                                <div class="pull-left">
+                                                                <div class="float-start">
                                                                     <div class="payment-list-price-detail-total-price">Total</div>
                                                                 </div>
                                                                 <div class="pull-right text-right">

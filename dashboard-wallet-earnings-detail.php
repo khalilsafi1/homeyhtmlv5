@@ -98,7 +98,7 @@
                                                         <li>Total amount<span>$4,400.00</span></li>
                                                         <li class="total">
                                                             <div class="payment-list-price-detail clearfix">
-                                                                <div class="pull-left">
+                                                                <div class="float-end">
                                                                     <div class="payment-list-price-detail-total-price">Payout</div>
                                                                 </div>
                                                                 <div class="pull-right text-right">

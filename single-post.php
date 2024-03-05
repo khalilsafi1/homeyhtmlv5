@@ -50,7 +50,7 @@
                                 <div class="block-body">
                                     <h1>How To Find The Right Place For Your Next Holidays</h1>
 
-                                    <ul class="article-meta list-inline pull-left">
+                                    <ul class="article-meta list-inline float-start">
                                         <li class="post-author">
                                             <img src="img/40x40.png" alt="Auther Image" width="48" height="48" class="img-circle">
                                             by <a href="#">John Doe</a>
@@ -133,7 +133,7 @@
                             </article>
 
                             <div class="next-prev-block next-prev-blog blog-section clearfix">
-                                <div class="prev-box pull-left text-left">
+                                <div class="prev-box float-start text-left">
                                     <a class="hover-effect" href="#">
                                         <div class="next-prev-block-content">
                                             <p>Prev Post</p>

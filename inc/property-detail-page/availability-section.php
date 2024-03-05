@@ -280,7 +280,7 @@
                     </div>
 
                     <div class="calendar-navigation custom-actions">
-                        <button class="btn btn-action pull-left"><i class="homey-icon homey-icon-arrow-left-1" aria-hidden="true"></i></button>
+                        <button class="btn btn-action float-start"><i class="homey-icon homey-icon-arrow-left-1" aria-hidden="true"></i></button>
                         <button class="btn btn-action pull-right"><i class="homey-icon homey-icon-arrow-right-1" aria-hidden="true"></i></button>
                     </div><!-- calendar-navigation -->
 

@@ -1,7 +1,7 @@
 <div class="reviews-section">
 
 	<div class="sort-wrap clearfix">
-		<div class="pull-left">
+		<div class="float-start">
 			<h2>3 Reviews</h2>
 		</div>
 		<div class="pull-right">

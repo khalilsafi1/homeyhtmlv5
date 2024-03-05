@@ -1,5 +1,5 @@
 <div class="sort-wrap clearfix">
-    <div class="pull-left">
+    <div class="float-start">
         <div class="number-of-listings">
             300 Rentals <i class="homey-icon homey-icon-style-two-pin-marker" aria-hidden="true"></i> <strong>Miami Beach</strong>
         </div>

@@ -10,7 +10,7 @@
             <div class="modal-content">
                 <div class="modal-header justify-content-between">
                     <h4 class="modal-title">Register</h4>
-                    <button type="button" class="btn" data-dismiss="modal" aria-label="Close">
+                    <button type="button" class="btn" data-bs-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true" class="fs-5 fw-bold text-secondary">&times;</span>
                     </button>
                 </div>

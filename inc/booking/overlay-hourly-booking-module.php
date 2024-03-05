@@ -113,7 +113,7 @@
 					<div class="payment-list">
 						
 						<div class="payment-list-price-detail clearfix">
-							<div class="pull-left">
+							<div class="float-start">
 								<div class="payment-list-price-detail-total-price">Total</div>
 								<div class="payment-list-price-detail-note">Includes taxes and fees</div>
 							</div>
@@ -147,7 +147,7 @@
 </div><!-- overlay-booking-module -->
 
 <div class="overlay-booking-btn visible-sm visible-xs">
-	<div class="pull-left">
+	<div class="float-start">
 		<div class="overlay-booking-price">$375<span>/night</span></div>
 		<div class="rating">
 			<i class="homey-icon homey-icon-rating-star"></i><span class="star-text-right">4.96 - <a href="#">24 Reviews</a></span>

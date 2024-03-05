@@ -17,7 +17,7 @@
 						<div class="form-group">
 							<input type="password" class="form-control password-input-2" placeholder="Password">
 						</div>
-						<div class="checkbox pull-left">
+						<div class="checkbox float-start">
 							<label>
 								<input type="checkbox"> Remember me
 							</label>
@@ -52,7 +52,7 @@
 							<option>I want to book</option>
 							<option>I want to host</option>
 						</select>
-						<div class="checkbox pull-left">
+						<div class="checkbox float-start">
 							<label>
 								<input type="checkbox"> I agree with <a href="#">Terms & Conditions</a>
 							</label>

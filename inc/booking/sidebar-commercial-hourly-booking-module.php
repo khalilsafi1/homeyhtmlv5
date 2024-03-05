@@ -90,7 +90,7 @@
 				<div class="payment-list">
 
 					<div class="payment-list-price-detail clearfix">
-						<div class="pull-left">
+						<div class="float-start">
 							<div class="payment-list-price-detail-total-price">Total</div>
 							<div class="payment-list-price-detail-note">Includes taxes and fees</div>
 						</div>
