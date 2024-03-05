@@ -30,7 +30,7 @@
 		</div>
 		<div class="search-button">
 			<!-- <button type="submit" class="btn btn-primary">Search</button> -->
-			<div class="btn btn-primary spinner">
+			<div class="btn btn-primary spinner ms-3">
 				<div class="bounce1"></div>
 				<div class="bounce2"></div>
 				<div class="bounce3"></div>
