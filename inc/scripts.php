@@ -16,7 +16,8 @@
 <script type="text/javascript" src="js/parallax-background.min.js"></script>
 <script type="text/javascript" src="js/jquery.vide.min.js"></script>
 <script type="text/javascript" src="js/theia-sticky-sidebar.js"></script>
-<script type="text/javascript" src="js/custom.js"></script>
+<!-- <script type="text/javascript" src="js/custom.js"></script> -->
+<script type="text/javascript" src="js/bootstrap-5/custom.js"></script>
 
 
 
