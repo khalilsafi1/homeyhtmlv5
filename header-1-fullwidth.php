@@ -46,7 +46,7 @@
                     <div class="header-comp-logo">
                         <?php include('inc/header/logo.php'); ?>
                     </div>
-                    <div class="header-comp-nav text-right">
+                    <div class="header-comp-nav text-end">
                         <?php include('inc/header/main-nav.php'); ?>
                     </div>
                     <div class="header-comp-right">
@@ -230,7 +230,7 @@
                     <div class="header-comp-logo">
                         <?php include('inc/header/logo.php'); ?>
                     </div>
-                    <div class="header-comp-nav text-right">
+                    <div class="header-comp-nav text-end">
                         <?php include('inc/header/main-nav.php'); ?>
                     </div>
                     <div class="header-comp-right">

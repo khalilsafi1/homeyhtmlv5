@@ -4,7 +4,7 @@
  Author: Favethemes
  Version: 1.0
  */
- $(document).ready(function($) {
+ (function($) {
     "use strict";
     /* ------------------------------------------------------------------------ */
     /*  GLOBAL VARIABLES
