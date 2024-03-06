@@ -33,8 +33,8 @@
         <div class="banner-caption banner-caption-side-search">
             <div class="side-search-wrap">
 
-                <h1 class="banner-title text-black">Book and Experience Unique Places</h1>
-                <p class="banner-subtitle text-black">WordPress Theme For Rentals</p>
+                <h1 class="banner-title ">Book and Experience Unique Places</h1>
+                <p class="banner-subtitle ">WordPress Theme For Rentals</p>
 
                 <?php include ('inc/search/side-search-for-banners.php'); ?>
             </div>

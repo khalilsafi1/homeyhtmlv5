@@ -27,7 +27,7 @@
         <?php include ('inc/header/header-mobile.php'); ?>
 
         <!-- desktop and tablet search -->
-        <?php include ('inc/header-1-search.php'); ?>
+        <?php  include ('inc/header-1-search.php'); ?>
         <?php include ('inc/header-1-search-mobile.php'); ?>
     </div>
     <?php include ('inc/footer.php'); ?>
