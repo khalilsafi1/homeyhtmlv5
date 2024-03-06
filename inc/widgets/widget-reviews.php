@@ -8,7 +8,7 @@
             <div class="media">
                 <div class="media-left">
                     <a href="#" class="media-object">
-                        <img src="img/70x70.png" class="img-circle" width="70" height="70" alt="user Image">
+                        <img src="img/70x70.png" class="rounded-circle" width="70" height="70" alt="user Image">
                     </a>
                 </div>
                 <div class="media-body media-middle">
@@ -37,7 +37,7 @@
             <div class="media">
                 <div class="media-left">
                     <a href="#" class="media-object">
-                        <img src="img/70x70.png" class="img-circle" width="70" height="70" alt="user Image">
+                        <img src="img/70x70.png" class="rounded-circle" width="70" height="70" alt="user Image">
                     </a>
                 </div>
                 <div class="media-body media-middle">

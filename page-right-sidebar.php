@@ -6,7 +6,7 @@
 <body>
     <div class="nav-area header-type-1">
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="container">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
@@ -30,7 +30,7 @@
     <section class="main-content-area">
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="col-12 col-md-12 col-lg-12">
                     <div class="page-title">
                         <div class="block-top-title">
                             <?php include ('inc/breadcrumb.php'); ?>
@@ -42,7 +42,7 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+                <div class="col-12 col-md-12 col-lg-8">
 
                     <div class="page-wrap">
                         <div class="article-main">
@@ -106,7 +106,7 @@
                         </div>
                     </div><!-- grid-listing-page -->
                 </div><!-- col-xs-12 col-sm-12 col-md-8 col-lg-8 -->
-                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                <div class="col-12 col-md-12 col-lg-4">
                     <div class="sidebar">
                         <?php include ('inc/widgets/widget-properties.php'); ?>
                         <?php include ('inc/widgets/widget-properties-card.php'); ?>

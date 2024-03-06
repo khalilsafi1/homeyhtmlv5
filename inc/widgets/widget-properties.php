@@ -5,7 +5,7 @@
     <div class="widget-body">
         
         <div class="item-list-view">
-            <div class="media property-item">
+            <div class="media property-item d-flex">
                 <div class="media-left">
                     <div class="item-media item-media-thumb">
                         
@@ -40,7 +40,7 @@
         </div><!-- .item-wrap -->
         
         <div class="item-list-view">
-            <div class="media property-item">
+            <div class="media property-item d-flex">
                 <div class="media-left">
                     <div class="item-media item-media-thumb">
                         <a href="#"><img class="img-responsive" alt="thumb" src="img/100x75.png" width="101" height="75"></a>
@@ -70,7 +70,7 @@
         </div><!-- .item-wrap -->
 
         <div class="item-list-view">
-            <div class="media property-item">
+            <div class="media property-item d-flex">
                 <div class="media-left">
                     <div class="item-media item-media-thumb">
                         <a href="#"><img class="img-responsive" alt="thumb" src="img/100x75.png" width="101" height="75"></a>

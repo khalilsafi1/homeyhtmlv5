@@ -4,7 +4,7 @@
     </div>
     <div class="widget-body">
         <a href="#">
-            <img class="img-responsive" src="https://via.placeholder.com/300x250" width="300" height="250">
+            <img class="img-responsive" src="https://via.placeholder.com/300x250" width="100%" height="250">
         </a>
     </div>
 </div>

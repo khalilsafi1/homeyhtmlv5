@@ -51,13 +51,13 @@
                                     <h1>How To Find The Right Place For Your Next Holidays</h1>
 
                                     <ul class="article-meta list-inline float-start">
-                                        <li class="post-author">
-                                            <img src="img/40x40.png" alt="Auther Image" width="48" height="48" class="img-circle">
+                                        <li class="post-author list-inline-item">
+                                            <img src="img/40x40.png" alt="Auther Image" width="48" height="48" class="rounded-circle">
                                             by <a href="#">John Doe</a>
                                         </li>
-                                        <li class="post-date"><i class="homey-icon homey-icon-calendar-3"></i> February 6, 2014 </li>
-                                        <li class="post-category"><i class="homey-icon homey-icon-award-badge-1"></i> <a href="#">Holidays</a>, <a href="#">Places</a></li>
-                                        <li><i class="homey-icon homey-icon-messages-bubble-text-1-messages-chat-smileys"></i> 1</li>
+                                        <li class="post-date list-inline-item"><i class="homey-icon homey-icon-calendar-3"></i> February 6, 2014 </li>
+                                        <li class="post-category list-inline-item"><i class="homey-icon homey-icon-award-badge-1"></i> <a href="#">Holidays</a>, <a href="#">Places</a></li>
+                                        <li class="list-inline-item"><i class="homey-icon homey-icon-messages-bubble-text-1-messages-chat-smileys"></i> 1</li>
                                     </ul>
                                 </div>
 
@@ -142,7 +142,7 @@
                                         <img src="img/450x200.png">
                                     </a>
                                 </div>
-                                <div class="next-box float-end text-right">
+                                <div class="next-box float-end text-end">
                                     <a class="hover-effect" href="#">
                                         <div class="next-prev-block-content">
                                             <p>Next Post</p>
@@ -157,7 +157,7 @@
                                 <div class="author-detail-block block-body">
                                     <div class="media">
                                         <div class="media-left">
-                                            <a class="media-object" href="#"><img src="img/70x70.png" alt="img" width="70" height="70" class="img-circle img-responsive"></a>
+                                            <a class="media-object" href="#"><img src="img/70x70.png" alt="img" width="70" height="70" class="rounded-circle img-responsive"></a>
                                         </div>
                                         <div class="media-body">
                                             <h4 class="heading">John Doe</h4>
@@ -168,13 +168,13 @@
                                                 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                                             proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                                             <ul class="profile-social list-inline">
-                                                <li><a class="btn-facebook" href="#"><i class="homey-icon homey-icon-social-media-facebook"></i></a></li>
-                                                <li><a class="btn-twitter" href="#"><i class="homey-icon homey-icon-social-media-twitter"></i></a></li>
-                                                <li><a class="btn-google-plus" href="#"><i class="homey-icon homey-icon-social-media-google-plus-1"></i></a></li>
-                                                <li><a class="btn-instagram" href="#"><i class="homey-icon homey-icon-social-instagram"></i></a></li>
-                                                <li><a class="btn-pinterest" href="#"><i class="homey-icon homey-icon-social-pinterest"></i></a></li>
-                                                <li><a class="btn-linkedin" href="#"><i class="homey-icon homey-icon-professional-network-linkedin"></i></a></li>
-                                                <li><a class="btn-rss" href="#"><i class="homey-icon homey-icon-rss-feed-interface-essential"></i></a></li>
+                                                <li class="list-inline-item"><a class="btn-facebook" href="#"><i class="homey-icon homey-icon-social-media-facebook"></i></a></li>
+                                                <li class="list-inline-item"><a class="btn-twitter" href="#"><i class="homey-icon homey-icon-social-media-twitter"></i></a></li>
+                                                <li class="list-inline-item"><a class="btn-google-plus" href="#"><i class="homey-icon homey-icon-social-media-google-plus-1"></i></a></li>
+                                                <li class="list-inline-item"><a class="btn-instagram" href="#"><i class="homey-icon homey-icon-social-instagram"></i></a></li>
+                                                <li class="list-inline-item"><a class="btn-pinterest" href="#"><i class="homey-icon homey-icon-social-pinterest"></i></a></li>
+                                                <li class="list-inline-item"><a class="btn-linkedin" href="#"><i class="homey-icon homey-icon-professional-network-linkedin"></i></a></li>
+                                                <li class="list-inline-item"><a class="btn-rss" href="#"><i class="homey-icon homey-icon-rss-feed-interface-essential"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>

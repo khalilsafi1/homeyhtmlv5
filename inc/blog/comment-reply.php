@@ -2,7 +2,7 @@
     <div class="block-body">
         <div class="media">
             <div class="media-left">
-                <a class="media-object" href="#"><img src="img/70x70.png" alt="img" width="70" height="70" class="img-circle img-responsive"></a>
+                <a class="media-object" href="#"><img src="img/70x70.png" alt="img" width="70" height="70" class="rounded-circle img-responsive"></a>
             </div>
             <div class="media-body">
                 <strong>John Doe</strong>
@@ -20,7 +20,7 @@
             <div class="block-body">
                 <div class="media">
                     <div class="media-left">
-                        <a class="media-object" href="#"><img src="img/70x70.png" alt="img" width="70" height="70" class="img-circle img-responsive"></a>
+                        <a class="media-object" href="#"><img src="img/70x70.png" alt="img" width="70" height="70" class="rounded-circle img-responsive"></a>
                     </div>
                     <div class="media-body">
                         <strong>John Doe</strong>
