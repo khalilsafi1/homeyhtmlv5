@@ -8,12 +8,12 @@
 	<div class="block-footer clearfix">
 
 		<ul class="article-meta list-inline float-start">
-			<li class="post-author">
-				<img src="img/40x40.png" alt="Auther Image" width="48" height="48" class="img-circle">
+			<li class="post-author list-inline-item">
+				<img src="img/40x40.png" alt="Auther Image" width="48" height="48" class="rounded-circle">
 				by <a href="#">John Doe</a>
 			</li>
-			<li class="post-date"><i class="homey-icon homey-icon-calendar-3"></i> February 6, 2014 </li>
-			<li class="post-category"><i class="homey-icon homey-icon-award-badge-1"></i> <a href="#">Holidays</a>, <a href="#">Places</a></li>
+			<li class="post-date list-inline-item"><i class="homey-icon homey-icon-calendar-3"></i> February 6, 2014 </li>
+			<li class="post-category list-inline-item"><i class="homey-icon homey-icon-award-badge-1"></i> <a href="#">Holidays</a>, <a href="#">Places</a></li>
 		</ul>
 
 		<a href="single-post.php" class="btn btn-primary btn-sm-full-width float-end">Read More</a>

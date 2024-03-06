@@ -5,7 +5,7 @@
     <div class="widget-body">
 
         <div class="review-block">
-            <div class="media">
+            <div class="media d-flex">
                 <div class="media-left">
                     <a href="#" class="media-object">
                         <img src="img/70x70.png" class="rounded-circle" width="70" height="70" alt="user Image">
@@ -34,7 +34,7 @@
         </div>
 
         <div class="review-block">
-            <div class="media">
+            <div class="media d-flex">
                 <div class="media-left">
                     <a href="#" class="media-object">
                         <img src="img/70x70.png" class="rounded-circle" width="70" height="70" alt="user Image">
