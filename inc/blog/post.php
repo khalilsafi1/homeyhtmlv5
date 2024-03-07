@@ -1,5 +1,5 @@
 <article class="blog-article block">
-	<a href="single-post.php"><img src="img/750x422.png" alt="Blog Image" width="750" height="422"></a>
+	<a href="single-post.php"><img src="img/750x422.png" alt="Blog Image" class="w-100" height="422"></a>
 	
 	<div class="block-body">
 		<h2>How To Find The Right Place For Your Next Holidays</h2>

@@ -1,4 +1,4 @@
-<div class="item-wrap item-list-view">
+<div class="item-wrap item-list-view px-0">
     <div class="media property-item">
         <div class="media-left">
             <div class="item-media item-media-thumb">

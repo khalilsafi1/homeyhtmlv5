@@ -131,7 +131,7 @@
                 </div><!-- collapse -->
 
                 <div class="filters">
-                    <a role="button" data-toggle="collapse" href="#collapseAmenities-mobile" aria-expanded="false" aria-controls="collapseAmenities-mobile">
+                    <a role="button" data-bs-toggle="collapse" href="#collapseAmenities-mobile" aria-expanded="false" aria-controls="collapseAmenities-mobile">
                         <span class="filter-more-link">More</span> 
                         <i class="homey-icon homey-icon-navigation-menu-horizontal-interface-essential" aria-hidden="true"></i> 
                     </a>
@@ -189,7 +189,7 @@
                 </div><!-- collapse -->
 
                 <div class="filters">
-                    <a role="button" data-toggle="collapse" href="#collapseFacilities-mobile" aria-expanded="false" aria-controls="collapseFacilities-mobile">
+                    <a role="button" data-bs-toggle="collapse" href="#collapseFacilities-mobile" aria-expanded="false" aria-controls="collapseFacilities-mobile">
                         <span class="filter-more-link">More</span> 
                         <i class="homey-icon homey-icon-navigation-menu-horizontal-interface-essential" aria-hidden="true"></i> 
                     </a>
@@ -247,7 +247,7 @@
                 </div><!-- collapse -->
 
                 <div class="filters">
-                    <a role="button" data-toggle="collapse" href="#collapseNeightborhoods-mobile" aria-expanded="false" aria-controls="collapseNeightborhoods-mobile">
+                    <a role="button" data-bs-toggle="collapse" href="#collapseNeightborhoods-mobile" aria-expanded="false" aria-controls="collapseNeightborhoods-mobile">
                         <span class="filter-more-link">More</span> 
                         <i class="homey-icon homey-icon-navigation-menu-horizontal-interface-essential" aria-hidden="true"></i> 
                     </a>

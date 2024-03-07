@@ -6,7 +6,7 @@
 <body>
     <div class="nav-area header-type-1">
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="container">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
@@ -41,7 +41,7 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                <div class="col-12 col-md-12 col-lg-4">
                     <div class="sidebar">
                         <?php include ('inc/widgets/widget-advanced-search.php'); ?>
                         <?php include ('inc/widgets/widget-properties.php'); ?>
@@ -51,7 +51,7 @@
                     </div>
                 </div><!-- col-xs-12 col-sm-12 col-md-4 col-lg-4 -->
 
-                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                <div class="col-12 col-md-12 col-lg-4">
                     <div class="sidebar">
                         <?php include ('inc/widgets/widget-reviews.php'); ?>
                         <?php include ('inc/widgets/widget-comments.php'); ?>
@@ -62,7 +62,7 @@
                     </div>
                 </div><!-- col-xs-12 col-sm-12 col-md-4 col-lg-4 -->
 
-                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                <div class="col-12 col-md-12 col-lg-4">
                     <div class="sidebar">
                         <?php include ('inc/widgets/widget-taxonomies.php'); ?>
                         <?php include ('inc/widgets/widget-archives.php'); ?>

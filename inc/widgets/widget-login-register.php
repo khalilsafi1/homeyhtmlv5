@@ -8,7 +8,7 @@
 			<li role="presentation"><a href="#register-tab" aria-controls="register-tab" role="tab" data-toggle="tab">Register</a></li>
 		</ul>
 		<div class="tab-content">
-			<div role="tabpanel" class="tab-pane fade in active" id="login-tab">
+			<div role="tabpanel" class="tab-pane active" id="login-tab">
 				<div class="modal-login-form">
 					<form>
 						<div class="form-group">

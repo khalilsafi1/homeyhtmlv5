@@ -2,6 +2,11 @@
 <html lang="en">
 <head>
     <?php include ('inc/head.php'); ?>
+    <style>
+        .dropdown-toggle::afte{
+            display: none !important;
+        }
+    </style>
 </head>
 <body>
     <div class="nav-area header-type-1">

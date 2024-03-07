@@ -39,9 +39,9 @@
                 <div class="footer-right">
                     <div class="item-tools">
                         <div class="btn-group dropup">
-                            <button class="btn-item-tools dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="homey-icon homey-icon-navigation-menu-vertical" aria-hidden="true"></i></button>
+                          
+                            <button class="btn-item-tools " type="button" id="dropdownMenu" data-bs-toggle="dropdown" aria-expanded="false"><i class="homey-icon homey-icon-navigation-menu-vertical caret-off" aria-hidden="true"></i></button>
                             <ul class="dropdown-menu">
-                                <!-- <li><a class="show-compare-panel" href="#">Compare <i class="homey-icon homey-icon-loading-half"></i></a></li> -->
                                 <li><a href="#">Add to favorite <i class="homey-icon homey-icon-loading-half"></i></a></li>
                             </ul>
                         </div>
