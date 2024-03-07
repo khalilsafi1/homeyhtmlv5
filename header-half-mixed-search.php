@@ -44,11 +44,11 @@
                             <!-- mixed search -->
                             <div class="mixed-search-panel mixed-search-side-banner">
                                 <ul class="nav nav-tabs">
-                                    <li class="active">
-                                        <a data-target="#nightly-search-panel" role="tab" data-toggle="tab">Nightly</a>
+                                    <li class="nav-item">
+                                        <a class="nav-link active" data-bs-target="#nightly-search-panel" role="tab" data-bs-toggle="tab">Nightly</a>
                                     </li>
-                                    <li>
-                                        <a data-target="#hourly-search-panel" role="tab" data-toggle="tab">Hourly</a>
+                                    <li class="nav-item">
+                                        <a class="nav-link" data-bs-target="#hourly-search-panel" role="tab" data-bs-toggle="tab">Hourly</a>
                                     </li>
                                 </ul>
                                 <div class="tab-content">

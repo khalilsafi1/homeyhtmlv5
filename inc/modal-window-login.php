@@ -46,7 +46,7 @@
                             </div>
                             <button type="submit" class="btn btn-primary btn-full-width">Log In</button>
                         </form>
-                        <p class="text-center">Don't you have an account? <a href="#" data-toggle="modal" data-target="#modal-register" data-dismiss="modal">Register</a></p>
+                        <p class="text-center">Don't you have an account? <a href="#" data-bs-toggle="modal" data-bs-target="#modal-register" data-bs-dismiss="modal">Register</a></p>
                     </div>
 
                 </div><!-- /.modal-content -->

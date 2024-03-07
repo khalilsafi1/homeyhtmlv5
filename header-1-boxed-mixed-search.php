@@ -2,6 +2,11 @@
 <html lang="en">
 <head>
     <?php include ('inc/head.php'); ?>
+    <style> 
+        .dropdown-toggle::after{
+            display: none;
+        }
+    </style>
 </head>
 <body>
 
@@ -31,18 +36,17 @@
             <div class="container">
                 <ul class="nav nav-pills">
                     <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Type</a>
+                        <a class="dropdown-toggle" data-bs-toggle="dropdown" href="#">Type</a>
                         <ul class="dropdown-menu">    
                             <li>
-                                <a href="#nightly-search-panel" role="tab" data-toggle="tab">Nightly</a>
+                                <a href="#nightly-search-panel" role="tab" data-bs-toggle="tab">Nightly</a>
                             </li>
                             <li>
-                                <a href="#hourly-search-panel" role="tab" data-toggle="tab">Hourly</a>
+                                <a href="#hourly-search-panel" role="tab" data-bs-toggle="tab">Hourly</a>
                             </li>
                         </ul>
                     </li>
-                </ul>
-                
+                </ul>                
                 <div class="tab-content">
                     <div class="tab-pane in active" id="nightly-search-panel">
                         <?php include ('inc/search/main-search.php'); ?>

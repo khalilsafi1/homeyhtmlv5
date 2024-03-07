@@ -1,4 +1,4 @@
-<div class="search-wrap search-banner search-banner-desktop hourly-search-banner side-search d-none d-md-block">
+<div class="search-wrap search-banner search-banner-desktop hourly-search-banner side-search hidden-xs">
 	<form class="clearfix">
 		<div class="search-destination">
 			<label class="animated-label">Where to go?</label>
@@ -10,12 +10,12 @@
 				<label class="animated-label">Arrive</label>
 				<input type="text" class="form-control" placeholder="Arrive">
 			</div>
-			<?php include('inc/search/search-calendar-single.php'); ?>
+			<?php include ('inc/search/search-calendar-single.php'); ?>
 		</div>
 		<div class="search-hours-range clearfix">
-			<div class="search-hours-range-left d-flex">
-				<select class="form-select">
-					<option selected data-icon='<i class=" fa fa-clock-o" aria-hidden="true"></i>'>8:00 AM</option>
+			<div class="search-hours-range-left">
+				<select class="selectpicker" title="Starts">
+					<option>8:00 AM</option>
 					<option>8:30 AM</option>
 					<option>9:00 AM</option>
 					<option>9:30 AM</option>
@@ -38,8 +38,8 @@
 					<option>6:00 PM</option>
 				</select>
 			</div>
-			<div class="search-hours-range-right d-flex">
-				<select class="form-select">
+			<div class="search-hours-range-right">
+				<select class="selectpicker" title="Ends">
 					<option>8:00 AM</option>
 					<option>8:30 AM</option>
 					<option>9:00 AM</option>
@@ -67,7 +67,7 @@
 		<div class="search-guests">
 			<label class="animated-label">Guests</label>
 			<input type="text" class="form-control" placeholder="Guests">
-			<?php include('inc/search/search-guests.php'); ?>
+			<?php include ('inc/search/search-guests.php'); ?>
 		</div>
 		<div class="search-button">
 			<!-- <button type="submit" class="btn btn-primary">Search</button> -->
@@ -80,7 +80,7 @@
 	</form>
 </div><!-- search-wrap -->
 
-<div class="search-wrap search-banner search-banner-mobile d-block d-md-none">
+<div class="search-wrap search-banner search-banner-mobile">
 	<form class="clearfix">
 		<div class="search-destination">
 			<input type="text" class="form-control" placeholder="Where to go?" onfocus="blur();">

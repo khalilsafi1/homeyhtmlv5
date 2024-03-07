@@ -13,11 +13,11 @@
 <!-- <link href="css/bootstrap-select.css" rel="stylesheet" type="text/css" /> -->
 <!-- <link href="css/bootstrap-5/bootstrap-select.min.css" rel="stylesheet" type="text/css" /> -->
 <!-- <link href="css/owl.carousel.min.css" rel="stylesheet" type="text/css" /> -->
-<!-- <link href="css/bootstrap-5/all.min.css" rel="stylesheet" type="text/css" /> -->
 <!-- <link href="css/bootstrap-5/swipebox.min.css" rel="stylesheet" type="text/css" /> -->
 <!-- <link href="css/rtl.css" rel="stylesheet" type="text/css" /> -->
 <link href="css/bootstrap-5/bootstrap.min.css" rel="stylesheet" type="text/css" />
 <link href="css/bootstrap-5/bootstrap-select.min.css" rel="stylesheet" type="text/css" />
+<link href="css/bootstrap-5/all.min.css" rel="stylesheet" type="text/css" />
 <link href="css/font-awesome.css" rel="stylesheet" type="text/css" />
 <link href="css/icons.css" rel="stylesheet" type="text/css" />
 <link href="css/swipebox.min.css" rel="stylesheet" type="text/css" />
