@@ -57,7 +57,7 @@
 
                                     <p>Proin suscipit, ex non sodales aliquam, ante mauris laoreet felis, vitae fermentum ligula nibh ut ex. Vivamus sem magna, iaculis ut pretium ac, tincidunt vel ipsum. Maecenas commodo, velit vel porta vulputate, lorem sem accumsan nunc, nec scelerisque elit turpis eget mauris. Donec dictum elit vel nunc tristique, eu lobortis ante sodales. Etiam posuere leo ut leo laoreet, a gravida dui ultricies. Morbi vehicula nulla eget elit mollis, at condimentum est feugiat.</p>
 
-                                    <blockquote><p>Duis mollis et sem sed sollicitudin. Donec non odio neque. Aliquam hendrerit sollicitudin purus, quis rutrum mi accumsan nec.</p></blockquote>
+                                    <blockquote class="blockquote p-3 border-start border-5"><p>Duis mollis et sem sed sollicitudin. Donec non odio neque. Aliquam hendrerit sollicitudin purus, quis rutrum mi accumsan nec.</p></blockquote>
                                     
                                     <p>Duis mattis laoreet neque, et ornare neque sollicitudin at. Proin sagittis dolor sed mi elementum pretium. Donec et justo ante. Vivamus egestas sodales est, eu rhoncus urna semper eu. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer tristique elit lobortis purus bibendum, quis dictum metus mattis.</p>
                                     

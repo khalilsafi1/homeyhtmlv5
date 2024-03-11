@@ -2,7 +2,7 @@
     <div class="block-top-title">
         <div class="block-body">
             <?php include ('inc/breadcrumb.php'); ?>
-            <h1 class="listing-title">Apartment for Rent <span class="label label-success">FEATURED</span></h1>
+            <h1 class="listing-title w-50">Apartment for Rent <span style="font-size:10px" class="badge bg-success">FEATURED</span> </h1>
             <div class="rating">
                 <i class="homey-icon homey-icon-rating-star"></i><span class="star-text-right">4.96 - <a href="#">24 Reviews</a></span>
             </div>

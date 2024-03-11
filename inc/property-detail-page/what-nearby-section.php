@@ -23,7 +23,7 @@
                                                 <i class="homey-icon homey-icon-rating-star-full"></i>
                                                 <i class="homey-icon homey-icon-rating-star"></i>
                                                 <i class="homey-icon homey-icon-rating-star"></i>
-                                                <span class="label label-success">Excellent</span>
+                                                <span class="badge bg-success">Excellent</span>
                                                 <span class="time-review">5 Reviews</span>
                                             </div>
                                         </div>
@@ -43,7 +43,7 @@
                                                 <i class="homey-icon homey-icon-rating-star-full"></i>
                                                 <i class="homey-icon homey-icon-rating-star"></i>
                                                 <i class="homey-icon homey-icon-rating-star"></i>
-                                                <span class="label label-success">Excellent</span>
+                                                <span class="badge bg-success">Excellent</span>
                                                 <span class="time-review">5 Reviews</span>
                                             </div>
                                         </div>
@@ -63,7 +63,7 @@
                                                 <i class="homey-icon homey-icon-rating-star-full"></i>
                                                 <i class="homey-icon homey-icon-rating-star"></i>
                                                 <i class="homey-icon homey-icon-rating-star"></i>
-                                                <span class="label label-success">Excellent</span>
+                                                <span class="badge bg-success">Excellent</span>
                                                 <span class="time-review">5 Reviews</span>
                                             </div>
                                         </div>
@@ -86,7 +86,7 @@
                                                 <i class="homey-icon homey-icon-rating-star-full"></i>
                                                 <i class="homey-icon homey-icon-rating-star"></i>
                                                 <i class="homey-icon homey-icon-rating-star"></i>
-                                                <span class="label label-success">Excellent</span>
+                                                <span class="badge bg-success">Excellent</span>
                                                 <span class="time-review">5 Reviews</span>
                                             </div>
                                         </div>
@@ -106,7 +106,7 @@
                                                 <i class="homey-icon homey-icon-rating-star-full"></i>
                                                 <i class="homey-icon homey-icon-rating-star"></i>
                                                 <i class="homey-icon homey-icon-rating-star"></i>
-                                                <span class="label label-success">Excellent</span>
+                                                <span class="badge bg-success">Excellent</span>
                                                 <span class="time-review">5 Reviews</span>
                                             </div>
                                         </div>
@@ -126,7 +126,7 @@
                                                 <i class="homey-icon homey-icon-rating-star-full"></i>
                                                 <i class="homey-icon homey-icon-rating-star"></i>
                                                 <i class="homey-icon homey-icon-rating-star"></i>
-                                                <span class="label label-success">Excellent</span>
+                                                <span class="badge bg-success">Excellent</span>
                                                 <span class="time-review">5 Reviews</span>
                                             </div>
                                         </div>
