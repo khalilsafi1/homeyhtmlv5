@@ -121,13 +121,13 @@
                                 </div>
                                 <div class="article-footer block-footer">
                                     <h3 class="meta-title">Tags:</h3>
-                                    <ul class="meta-tags list-inline">
-                                        <li><a href="#" rel="tag">Apartment</a></li>
-                                        <li><a href="#" rel="tag">Business Development</a></li>
-                                        <li><a href="#" rel="tag">House for families</a></li>
-                                        <li><a href="#" rel="tag">Houzez</a></li>
-                                        <li><a href="#" rel="tag">Luxury</a></li>
-                                        <li><a href="#" rel="tag">Real Estate</a></li>
+                                    <ul class="nav navbar">
+                                        <li class="nav-item"><a class="nav-link bg-danger rounded py-0 text-white"  href="#" rel="tag">Apartment</a></li>
+                                        <li class="nav-item"><a class="nav-link bg-danger rounded py-0 text-white" href="#" rel="tag">Business Development</a></li>
+                                        <li class="nav-item"><a class="nav-link bg-danger rounded py-0 text-white" href="#" rel="tag">House for families</a></li>
+                                        <li class="nav-item"><a class="nav-link bg-danger rounded py-0 text-white" href="#" rel="tag">Houzez</a></li>
+                                        <li class="nav-item"><a class="nav-link bg-danger rounded py-0 text-white" href="#" rel="tag">Luxury</a></li>
+                                        <li class="nav-item"><a class="nav-link bg-danger mt-2 rounded py-0 text-white" href="#" rel="tag">Real Estate</a></li>
                                     </ul>
                                 </div>
                             </article>
@@ -197,21 +197,21 @@
                                 <div class="comments-form block-body">
                                     <form>
                                         <div class="row">
-                                            <div class="col-sm-6">
+                                            <div class="col-sm-12 col-md-6">
                                                 <div class="form-group">
                                                     <div class="input-user input-icon">
                                                         <input placeholder="Your Name" class="form-control" type="text">
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-sm-6">
+                                            <div class="col-sm-12 col-md-6">
                                                 <div class="form-group">
                                                     <div class="input-email input-icon">
                                                         <input placeholder="Your Email" class="form-control" type="text">
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-sm-12">
+                                            <div class="col-sm-12 col-md-12">
                                                 <div class="form-group">
                                                     <textarea placeholder="Your Comments" class="form-control" rows="4"></textarea>
                                                 </div>

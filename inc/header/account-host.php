@@ -1,7 +1,7 @@
 <div class="account-loggedin">
     Host Account
     <span class="user-image">
-        <img src="img/36x36.png" alt="profile image" class="img-circle" width="36" height="36">
+        <img src="img/36x36.png" alt="profile image" class="rounded-circle" width="36" height="36">
     </span>
     <div class="account-dropdown">
         <ul>
