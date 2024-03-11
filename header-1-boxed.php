@@ -77,7 +77,7 @@
                         <?php include('inc/header/main-nav.php'); ?>
                     </div>
                     <div class="header-comp-right">
-                        <?php //include('inc/header/social.php'); ?>
+                        <?php include('inc/header/social.php'); ?>
                     </div>
                 </div>
             </div>

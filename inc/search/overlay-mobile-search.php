@@ -8,7 +8,7 @@
 				<label class="animated-label">Where to go?</label>
 				<input type="text" class="form-control input-search" placeholder="Where to go?">
 				<!-- <button type="reset" class="btn clear-input-btn"><i class="homey-icon homey-icon-remove-circle" aria-hidden="true"></i></button> -->
-				<a class="btn location-trigger" href="#">
+				<a class="btn location-trigger text-danger" href="#">
 					<i class="homey-icon homey-icon-location-target-maps-navigation"></i>
 				</a>
 			</div>

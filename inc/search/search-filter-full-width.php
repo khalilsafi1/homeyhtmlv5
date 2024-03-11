@@ -134,8 +134,8 @@
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
-					<div class="filters">
-						<a role="button" data-toggle="collapse" data-target="#collapseAmenities" aria-expanded="false" aria-controls="collapseAmenities">
+					<div class="filters text-danger">
+						<a role="button" data-bs-toggle="collapse" data-bs-target="#collapseAmenities" aria-expanded="false" aria-controls="collapseAmenities">
 							<span class="filter-more-link">More</span> 
 							<i class="homey-icon homey-icon-navigation-menu-vertical" aria-hidden="true"></i> 
 						</a>
@@ -181,7 +181,7 @@
 					</div>
 
 					<div class="collapse" id="collapseFacilities">
-						<div class="filters">
+						<div class="filters text-danger">
 							<label class="control control--checkbox">
 								<input name="Option Name" type="checkbox">
 								<span class="contro-text">Option Name</span>
@@ -211,8 +211,8 @@
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
-					<div class="filters">
-						<a role="button" data-toggle="collapse" data-target="#collapseFacilities" aria-expanded="false" aria-controls="collapseFacilities">
+					<div class="filters text-danger">
+						<a role="button" data-bs-toggle="collapse" data-bs-target="#collapseFacilities" aria-expanded="false" aria-controls="collapseFacilities">
 							<span class="filter-more-link">More</span> 
 							<i class="homey-icon homey-icon-navigation-menu-vertical" aria-hidden="true"></i> 
 						</a>
@@ -413,8 +413,8 @@
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
-					<div class="filters">
-						<a role="button" data-toggle="collapse" data-target="#collapseNeightborhoods" aria-expanded="false" aria-controls="collapseNeightborhoods">
+					<div class="filters text-danger">
+						<a role="button" data-bs-toggle="collapse" data-bs-target="#collapseNeightborhoods" aria-expanded="false" aria-controls="collapseNeightborhoods">
 							<span class="filter-more-link">More</span> 
 							<i class="homey-icon homey-icon-navigation-menu-vertical" aria-hidden="true"></i> 
 						</a>

@@ -4,8 +4,8 @@
 	</div>
 	<div class="widget-body">
 		<ul class="nav nav-tabs" role="tablist">
-			<li role="presentation" class="active"><a href="#login-tab" aria-controls="login-tab" role="tab" data-toggle="tab">Login</a></li>
-			<li role="presentation"><a href="#register-tab" aria-controls="register-tab" role="tab" data-toggle="tab">Register</a></li>
+			<li role="presentation" class="nav-item"><a class="nav-link active" href="#login-tab" aria-controls="login-tab" role="tab" data-bs-toggle="tab">Login</a></li>
+			<li role="presentation" class="nav-item"><a class="nav-link" href="#register-tab" aria-controls="register-tab" role="tab" data-bs-toggle="tab">Register</a></li>
 		</ul>
 		<div class="tab-content">
 			<div role="tabpanel" class="tab-pane active" id="login-tab">
