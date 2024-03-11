@@ -16,6 +16,6 @@
 			<li class="post-category list-inline-item"><i class="homey-icon homey-icon-award-badge-1"></i> <a href="#">Holidays</a>, <a href="#">Places</a></li>
 		</ul>
 
-		<a href="single-post.php" class="btn btn-primary btn-sm-full-width float-end">Read More</a>
+		<a href="single-post.php" class="btn btn-primary float-end px-4">Read More</a>
 	</div>
 </article>
