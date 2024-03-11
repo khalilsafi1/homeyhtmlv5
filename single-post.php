@@ -6,7 +6,7 @@
 <body>
     <div class="nav-area header-type-1">
         <!-- desktop nav -->
-        <header class="header-nav d-none d-lg-block">
+        <header class="header-nav hidden-sm hidden-xs">
             <div class="container">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
@@ -42,7 +42,7 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
+                <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 
                     <div class="blog-wrap">
                         <div class="article-main">
@@ -121,13 +121,13 @@
                                 </div>
                                 <div class="article-footer block-footer">
                                     <h3 class="meta-title">Tags:</h3>
-                                    <ul class="nav navbar">
-                                        <li class="nav-item"><a class="nav-link bg-danger rounded py-0 text-white"  href="#" rel="tag">Apartment</a></li>
-                                        <li class="nav-item"><a class="nav-link bg-danger rounded py-0 text-white" href="#" rel="tag">Business Development</a></li>
-                                        <li class="nav-item"><a class="nav-link bg-danger rounded py-0 text-white" href="#" rel="tag">House for families</a></li>
-                                        <li class="nav-item"><a class="nav-link bg-danger rounded py-0 text-white" href="#" rel="tag">Houzez</a></li>
-                                        <li class="nav-item"><a class="nav-link bg-danger rounded py-0 text-white" href="#" rel="tag">Luxury</a></li>
-                                        <li class="nav-item"><a class="nav-link bg-danger mt-2 rounded py-0 text-white" href="#" rel="tag">Real Estate</a></li>
+                                    <ul class="meta-tags list-inline">
+                                        <li class="list-inline-item"><a href="#" rel="tag">Apartment</a></li>
+                                        <li class="list-inline-item"><a href="#" rel="tag">Business Development</a></li>
+                                        <li class="list-inline-item"><a href="#" rel="tag">House for families</a></li>
+                                        <li class="list-inline-item"><a href="#" rel="tag">Houzez</a></li>
+                                        <li class="list-inline-item"><a href="#" rel="tag">Luxury</a></li>
+                                        <li class="list-inline-item"><a href="#" rel="tag">Real Estate</a></li>
                                     </ul>
                                 </div>
                             </article>
@@ -155,7 +155,7 @@
                             
                             <div class="blog-section block">
                                 <div class="author-detail-block block-body">
-                                    <div class="media d-flex">
+                                    <div class="media">
                                         <div class="media-left">
                                             <a class="media-object" href="#"><img src="img/70x70.png" alt="img" width="70" height="70" class="rounded-circle img-responsive"></a>
                                         </div>
@@ -239,7 +239,7 @@
                     </div><!-- grid-listing-page -->
 
                 </div><!-- col-xs-12 col-sm-12 col-md-8 col-lg-8 -->
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                     <div class="sidebar">
                         <?php include ('inc/widgets/widget-properties.php'); ?>
                         <?php include ('inc/widgets/widget-properties-card.php'); ?>
