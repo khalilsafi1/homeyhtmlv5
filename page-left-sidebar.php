@@ -42,7 +42,7 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-12 col-md-12 col-lg-8 col-md-push-4 col-lg-push-4">
+                <div class="col-12 col-md-12 col-lg-8 order-md-2 order-lg-2">
 
                     <div class="page-wrap">
                         <div class="article-main">
@@ -106,7 +106,7 @@
                         </div>
                     </div><!-- grid-listing-page -->
                 </div><!-- col-xs-12 col-sm-12 col-md-8 col-lg-8 -->
-                <div class="col-12 col-md-12 col-lg-4 col-md-pull-8 col-lg-pull-8">
+                <div class="col-12 col-md-12 col-lg-4 order-md-1 order-lg-1">
                     <div class="sidebar">
                         <?php include ('inc/widgets/widget-properties.php'); ?>
                         <?php include ('inc/widgets/widget-properties-card.php'); ?>
