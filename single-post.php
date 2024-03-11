@@ -6,7 +6,7 @@
 <body>
     <div class="nav-area header-type-1">
         <!-- desktop nav -->
-        <header class="header-nav hidden-sm hidden-xs">
+        <header class="header-nav d-none d-lg-block">
             <div class="container">
                 <div class="header-inner table-block">
                     <div class="header-comp-logo">
@@ -42,7 +42,7 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
 
                     <div class="blog-wrap">
                         <div class="article-main">
@@ -155,7 +155,7 @@
                             
                             <div class="blog-section block">
                                 <div class="author-detail-block block-body">
-                                    <div class="media">
+                                    <div class="media d-flex">
                                         <div class="media-left">
                                             <a class="media-object" href="#"><img src="img/70x70.png" alt="img" width="70" height="70" class="rounded-circle img-responsive"></a>
                                         </div>
@@ -239,7 +239,7 @@
                     </div><!-- grid-listing-page -->
 
                 </div><!-- col-xs-12 col-sm-12 col-md-8 col-lg-8 -->
-                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
                     <div class="sidebar">
                         <?php include ('inc/widgets/widget-properties.php'); ?>
                         <?php include ('inc/widgets/widget-properties-card.php'); ?>

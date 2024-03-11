@@ -1,6 +1,6 @@
 <li class="comment">
     <div class="block-body">
-        <div class="media">
+        <div class="media d-flex">
             <div class="media-left">
                 <a class="media-object" href="#"><img src="img/70x70.png" alt="img" width="70" height="70" class="rounded-circle img-responsive"></a>
             </div>
